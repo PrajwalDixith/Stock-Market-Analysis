@@ -9,12 +9,12 @@ This project include to answer all fallowing tasks with simple video explanation
 Part 1: Data Loading and Setup 
 Task: 
 You are given multiple datasets representing stock prices for different companies: 
-● Eicher Motors 
-● Bajaj Auto 
-● TCS 
-● TVS Motors 
-● Hero Motocorp 
-● Infosys 
+  ● Eicher Motors 
+  ● Bajaj Auto 
+  ● TCS 
+  ● TVS Motors 
+  ● Hero Motocorp 
+  ● Infosys 
 Each dataset contains stock prices for each company over time. Your first task is to load these 
 datasets into a database system (like MySQL, PostgreSQL, or SQLite). 
 
